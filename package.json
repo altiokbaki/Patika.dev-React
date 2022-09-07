@@ -1,0 +1,23 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "Patika.dev/React/HW1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altiokbaki/Patika.dev-React.git"
+  },
+  "author": "Osman Baki ALTIOK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altiokbaki/Patika.dev-React/issues"
+  },
+  "homepage": "https://github.com/altiokbaki/Patika.dev-React#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
